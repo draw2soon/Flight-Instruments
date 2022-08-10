@@ -1,2 +1,2 @@
 # Flight-Instruments
-These are flight instruments for use in my web-based sim
+Making flight instruments out of pure css and html for no obvious reason.
