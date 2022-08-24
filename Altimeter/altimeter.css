@@ -13,7 +13,7 @@
 #instrument-name {
     color: white;
     position: relative;
-    top: 40px;
+    top: 50px;
     text-align: center;
     margin: auto
 }
@@ -28,66 +28,66 @@
     left: 97.5px;
 }
 
-.tick:nth-child(2) { transform-origin: center; transform: rotate(0deg) translateX(0px) translateY(-95px); background-color:blue;}
-.tick:nth-child(3) { transform-origin: center; transform: rotate(6deg) translateX(0px) translateY(-95px); background-color:blue;}
-.tick:nth-child(4) { transform-origin: center; transform: rotate(12deg) translateX(0px) translateY(-95px); background-color:blue;}
-.tick:nth-child(5) { transform-origin: center; transform: rotate(18deg) translateX(0px) translateY(-95px); background-color:blue;}
-.tick:nth-child(6) { transform-origin: center; transform: rotate(24deg) translateX(0px) translateY(-95px); background-color:blue;}
-.tick:nth-child(7) { transform-origin: center; transform: rotate(30deg) translateX(0px) translateY(-95px); background-color:blue;}
-.tick:nth-child(8) { transform-origin: center; transform: rotate(36deg) translateX(0px) translateY(-95px); background-color:blue;}
-.tick:nth-child(9) { transform-origin: center; transform: rotate(42deg) translateX(0px) translateY(-95px); background-color:blue;}
-.tick:nth-child(10) { transform-origin: center; transform: rotate(48deg) translateX(0px) translateY(-95px); background-color:blue;}
-.tick:nth-child(11) { transform-origin: center; transform: rotate(54deg) translateX(0px) translateY(-95px); background-color:blue;}
-.tick:nth-child(12) { transform-origin: center; transform: rotate(60deg) translateX(0px) translateY(-95px); background-color:blue;}
-.tick:nth-child(13) { transform-origin: center; transform: rotate(66deg) translateX(0px) translateY(-95px); background-color:blue;}
-.tick:nth-child(14) { transform-origin: center; transform: rotate(72deg) translateX(0px) translateY(-95px); background-color:blue;}
-.tick:nth-child(15) { transform-origin: center; transform: rotate(78deg) translateX(0px) translateY(-95px); background-color:blue;}
-.tick:nth-child(16) { transform-origin: center; transform: rotate(84deg) translateX(0px) translateY(-95px); background-color:blue;}
-.tick:nth-child(17) { transform-origin: center; transform: rotate(90deg) translateX(0px) translateY(-95px); background-color:blue;}
-.tick:nth-child(18) { transform-origin: center; transform: rotate(96deg) translateX(0px) translateY(-95px); background-color:blue;}
-.tick:nth-child(19) { transform-origin: center; transform: rotate(102deg) translateX(0px) translateY(-95px); background-color:blue;}
-.tick:nth-child(20) { transform-origin: center; transform: rotate(108deg) translateX(0px) translateY(-95px); background-color:blue;}
-.tick:nth-child(21) { transform-origin: center; transform: rotate(114deg) translateX(0px) translateY(-95px); background-color:blue;}
-.tick:nth-child(22) { transform-origin: center; transform: rotate(120deg) translateX(0px) translateY(-95px); background-color:blue;}
-.tick:nth-child(23) { transform-origin: center; transform: rotate(126deg) translateX(0px) translateY(-95px); background-color:blue;}
-.tick:nth-child(24) { transform-origin: center; transform: rotate(132deg) translateX(0px) translateY(-95px); background-color:blue;}
-.tick:nth-child(25) { transform-origin: center; transform: rotate(138deg) translateX(0px) translateY(-95px); background-color:blue;}
-.tick:nth-child(26) { transform-origin: center; transform: rotate(144deg) translateX(0px) translateY(-95px); background-color:blue;}
-.tick:nth-child(27) { transform-origin: center; transform: rotate(150deg) translateX(0px) translateY(-95px); background-color:blue;}
-.tick:nth-child(28) { transform-origin: center; transform: rotate(156deg) translateX(0px) translateY(-95px); background-color:blue;}
-.tick:nth-child(29) { transform-origin: center; transform: rotate(162deg) translateX(0px) translateY(-95px); background-color:blue;}
-.tick:nth-child(30) { transform-origin: center; transform: rotate(168deg) translateX(0px) translateY(-95px); background-color:blue;}
-.tick:nth-child(31) { transform-origin: center; transform: rotate(174deg) translateX(0px) translateY(-95px); background-color:blue;}
-.tick:nth-child(32) { transform-origin: center; transform: rotate(180deg) translateX(0px) translateY(-95px); background-color:blue;}
-.tick:nth-child(33) { transform-origin: center; transform: rotate(186deg) translateX(0px) translateY(-95px); background-color:blue;}
-.tick:nth-child(34) { transform-origin: center; transform: rotate(192deg) translateX(0px) translateY(-95px); background-color:blue;}
-.tick:nth-child(35) { transform-origin: center; transform: rotate(198deg) translateX(0px) translateY(-95px); background-color:blue;}
-.tick:nth-child(36) { transform-origin: center; transform: rotate(204deg) translateX(0px) translateY(-95px); background-color:blue;}
-.tick:nth-child(37) { transform-origin: center; transform: rotate(210deg) translateX(0px) translateY(-95px); background-color:blue;}
-.tick:nth-child(38) { transform-origin: center; transform: rotate(216deg) translateX(0px) translateY(-95px); background-color:blue;}
-.tick:nth-child(39) { transform-origin: center; transform: rotate(222deg) translateX(0px) translateY(-95px); background-color:blue;}
-.tick:nth-child(40) { transform-origin: center; transform: rotate(228deg) translateX(0px) translateY(-95px); background-color:blue;}
-.tick:nth-child(41) { transform-origin: center; transform: rotate(234deg) translateX(0px) translateY(-95px); background-color:blue;}
-.tick:nth-child(42) { transform-origin: center; transform: rotate(240deg) translateX(0px) translateY(-95px); background-color:blue;}
-.tick:nth-child(43) { transform-origin: center; transform: rotate(246deg) translateX(0px) translateY(-95px); background-color:blue;}
-.tick:nth-child(44) { transform-origin: center; transform: rotate(252deg) translateX(0px) translateY(-95px); background-color:blue;}
-.tick:nth-child(45) { transform-origin: center; transform: rotate(258deg) translateX(0px) translateY(-95px); background-color:blue;}
-.tick:nth-child(46) { transform-origin: center; transform: rotate(264deg) translateX(0px) translateY(-95px); background-color:blue;}
-.tick:nth-child(47) { transform-origin: center; transform: rotate(270deg) translateX(0px) translateY(-95px); background-color:blue;}
-.tick:nth-child(48) { transform-origin: center; transform: rotate(276deg) translateX(0px) translateY(-95px); background-color:blue;}
-.tick:nth-child(49) { transform-origin: center; transform: rotate(282deg) translateX(0px) translateY(-95px); background-color:blue;}
-.tick:nth-child(50) { transform-origin: center; transform: rotate(288deg) translateX(0px) translateY(-95px); background-color:blue;}
-.tick:nth-child(51) { transform-origin: center; transform: rotate(294deg) translateX(0px) translateY(-95px); background-color:blue;}
-.tick:nth-child(52) { transform-origin: center; transform: rotate(300deg) translateX(0px) translateY(-95px); background-color:blue;}
-.tick:nth-child(53) { transform-origin: center; transform: rotate(306deg) translateX(0px) translateY(-95px); background-color:blue;}
-.tick:nth-child(54) { transform-origin: center; transform: rotate(312deg) translateX(0px) translateY(-95px); background-color:blue;}
-.tick:nth-child(55) { transform-origin: center; transform: rotate(318deg) translateX(0px) translateY(-95px); background-color:blue;}
-.tick:nth-child(56) { transform-origin: center; transform: rotate(324deg) translateX(0px) translateY(-95px); background-color:blue;}
-.tick:nth-child(57) { transform-origin: center; transform: rotate(330deg) translateX(0px) translateY(-95px); background-color:blue;}
-.tick:nth-child(58) { transform-origin: center; transform: rotate(336deg) translateX(0px) translateY(-95px); background-color:blue;}
-.tick:nth-child(59) { transform-origin: center; transform: rotate(342deg) translateX(0px) translateY(-95px); background-color:blue;}
-.tick:nth-child(60) { transform-origin: center; transform: rotate(348deg) translateX(0px) translateY(-95px); background-color:blue;}
-.tick:nth-child(61) { transform-origin: center; transform: rotate(354deg) translateX(0px) translateY(-95px); background-color:blue;}
+.tick:nth-child(2) { transform-origin: center; transform: rotate(0deg) translateX(0px) translateY(-95px); background-color:grey;}
+.tick:nth-child(3) { transform-origin: center; transform: rotate(6deg) translateX(0px) translateY(-95px); background-color:grey;}
+.tick:nth-child(4) { transform-origin: center; transform: rotate(12deg) translateX(0px) translateY(-95px); background-color:grey;}
+.tick:nth-child(5) { transform-origin: center; transform: rotate(18deg) translateX(0px) translateY(-95px); background-color:grey;}
+.tick:nth-child(6) { transform-origin: center; transform: rotate(24deg) translateX(0px) translateY(-95px); background-color:grey;}
+.tick:nth-child(7) { transform-origin: center; transform: rotate(30deg) translateX(0px) translateY(-95px); background-color:grey;}
+.tick:nth-child(8) { transform-origin: center; transform: rotate(36deg) translateX(0px) translateY(-95px); background-color:grey;}
+.tick:nth-child(9) { transform-origin: center; transform: rotate(42deg) translateX(0px) translateY(-95px); background-color:grey;}
+.tick:nth-child(10) { transform-origin: center; transform: rotate(48deg) translateX(0px) translateY(-95px); background-color:grey;}
+.tick:nth-child(11) { transform-origin: center; transform: rotate(54deg) translateX(0px) translateY(-95px); background-color:grey;}
+.tick:nth-child(12) { transform-origin: center; transform: rotate(60deg) translateX(0px) translateY(-95px); background-color:grey;}
+.tick:nth-child(13) { transform-origin: center; transform: rotate(66deg) translateX(0px) translateY(-95px); background-color:grey;}
+.tick:nth-child(14) { transform-origin: center; transform: rotate(72deg) translateX(0px) translateY(-95px); background-color:grey;}
+.tick:nth-child(15) { transform-origin: center; transform: rotate(78deg) translateX(0px) translateY(-95px); background-color:grey;}
+.tick:nth-child(16) { transform-origin: center; transform: rotate(84deg) translateX(0px) translateY(-95px); background-color:grey;}
+.tick:nth-child(17) { transform-origin: center; transform: rotate(90deg) translateX(0px) translateY(-95px); background-color:grey;}
+.tick:nth-child(18) { transform-origin: center; transform: rotate(96deg) translateX(0px) translateY(-95px); background-color:grey;}
+.tick:nth-child(19) { transform-origin: center; transform: rotate(102deg) translateX(0px) translateY(-95px); background-color:grey;}
+.tick:nth-child(20) { transform-origin: center; transform: rotate(108deg) translateX(0px) translateY(-95px); background-color:grey;}
+.tick:nth-child(21) { transform-origin: center; transform: rotate(114deg) translateX(0px) translateY(-95px); background-color:grey;}
+.tick:nth-child(22) { transform-origin: center; transform: rotate(120deg) translateX(0px) translateY(-95px); background-color:grey;}
+.tick:nth-child(23) { transform-origin: center; transform: rotate(126deg) translateX(0px) translateY(-95px); background-color:grey;}
+.tick:nth-child(24) { transform-origin: center; transform: rotate(132deg) translateX(0px) translateY(-95px); background-color:grey;}
+.tick:nth-child(25) { transform-origin: center; transform: rotate(138deg) translateX(0px) translateY(-95px); background-color:grey;}
+.tick:nth-child(26) { transform-origin: center; transform: rotate(144deg) translateX(0px) translateY(-95px); background-color:grey;}
+.tick:nth-child(27) { transform-origin: center; transform: rotate(150deg) translateX(0px) translateY(-95px); background-color:grey;}
+.tick:nth-child(28) { transform-origin: center; transform: rotate(156deg) translateX(0px) translateY(-95px); background-color:grey;}
+.tick:nth-child(29) { transform-origin: center; transform: rotate(162deg) translateX(0px) translateY(-95px); background-color:grey;}
+.tick:nth-child(30) { transform-origin: center; transform: rotate(168deg) translateX(0px) translateY(-95px); background-color:grey;}
+.tick:nth-child(31) { transform-origin: center; transform: rotate(174deg) translateX(0px) translateY(-95px); background-color:grey;}
+.tick:nth-child(32) { transform-origin: center; transform: rotate(180deg) translateX(0px) translateY(-95px); background-color:grey;}
+.tick:nth-child(33) { transform-origin: center; transform: rotate(186deg) translateX(0px) translateY(-95px); background-color:grey;}
+.tick:nth-child(34) { transform-origin: center; transform: rotate(192deg) translateX(0px) translateY(-95px); background-color:grey;}
+.tick:nth-child(35) { transform-origin: center; transform: rotate(198deg) translateX(0px) translateY(-95px); background-color:grey;}
+.tick:nth-child(36) { transform-origin: center; transform: rotate(204deg) translateX(0px) translateY(-95px); background-color:grey;}
+.tick:nth-child(37) { transform-origin: center; transform: rotate(210deg) translateX(0px) translateY(-95px); background-color:grey;}
+.tick:nth-child(38) { transform-origin: center; transform: rotate(216deg) translateX(0px) translateY(-95px); background-color:grey;}
+.tick:nth-child(39) { transform-origin: center; transform: rotate(222deg) translateX(0px) translateY(-95px); background-color:grey;}
+.tick:nth-child(40) { transform-origin: center; transform: rotate(228deg) translateX(0px) translateY(-95px); background-color:grey;}
+.tick:nth-child(41) { transform-origin: center; transform: rotate(234deg) translateX(0px) translateY(-95px); background-color:grey;}
+.tick:nth-child(42) { transform-origin: center; transform: rotate(240deg) translateX(0px) translateY(-95px); background-color:grey;}
+.tick:nth-child(43) { transform-origin: center; transform: rotate(246deg) translateX(0px) translateY(-95px); background-color:grey;}
+.tick:nth-child(44) { transform-origin: center; transform: rotate(252deg) translateX(0px) translateY(-95px); background-color:grey;}
+.tick:nth-child(45) { transform-origin: center; transform: rotate(258deg) translateX(0px) translateY(-95px); background-color:grey;}
+.tick:nth-child(46) { transform-origin: center; transform: rotate(264deg) translateX(0px) translateY(-95px); background-color:grey;}
+.tick:nth-child(47) { transform-origin: center; transform: rotate(270deg) translateX(0px) translateY(-95px); background-color:grey;}
+.tick:nth-child(48) { transform-origin: center; transform: rotate(276deg) translateX(0px) translateY(-95px); background-color:grey;}
+.tick:nth-child(49) { transform-origin: center; transform: rotate(282deg) translateX(0px) translateY(-95px); background-color:grey;}
+.tick:nth-child(50) { transform-origin: center; transform: rotate(288deg) translateX(0px) translateY(-95px); background-color:grey;}
+.tick:nth-child(51) { transform-origin: center; transform: rotate(294deg) translateX(0px) translateY(-95px); background-color:grey;}
+.tick:nth-child(52) { transform-origin: center; transform: rotate(300deg) translateX(0px) translateY(-95px); background-color:grey;}
+.tick:nth-child(53) { transform-origin: center; transform: rotate(306deg) translateX(0px) translateY(-95px); background-color:grey;}
+.tick:nth-child(54) { transform-origin: center; transform: rotate(312deg) translateX(0px) translateY(-95px); background-color:grey;}
+.tick:nth-child(55) { transform-origin: center; transform: rotate(318deg) translateX(0px) translateY(-95px); background-color:grey;}
+.tick:nth-child(56) { transform-origin: center; transform: rotate(324deg) translateX(0px) translateY(-95px); background-color:grey;}
+.tick:nth-child(57) { transform-origin: center; transform: rotate(330deg) translateX(0px) translateY(-95px); background-color:grey;}
+.tick:nth-child(58) { transform-origin: center; transform: rotate(336deg) translateX(0px) translateY(-95px); background-color:grey;}
+.tick:nth-child(59) { transform-origin: center; transform: rotate(342deg) translateX(0px) translateY(-95px); background-color:grey;}
+.tick:nth-child(60) { transform-origin: center; transform: rotate(348deg) translateX(0px) translateY(-95px); background-color:grey;}
+.tick:nth-child(61) { transform-origin: center; transform: rotate(354deg) translateX(0px) translateY(-95px); background-color:grey;}
 
 
 
@@ -108,7 +108,8 @@ p:nth-child(7) { color: white; text-align: center; transform: translateX(95px) t
 p:nth-child(8) { color: white; text-align: center; transform: translateX(57px) translateY(123px);}
 p:nth-child(9) { color: white; text-align: center; transform: translateX(28px) translateY(95px);}
 p:nth-child(10) { color: white; text-align: center; transform: translateX(15px) translateY(55px);}
-p:nth-child(11) { color: white; text-align: center; transform: translateX(0px) translateY(-10px);}
+p:nth-child(11) { color: white; text-align: center; transform: translateX(25px) translateY(15px);}
+p:nth-child(12) { color: white; text-align: center; transform: translateX(53px) translateY(-10px);}
 
 .tick:nth-child(5n + 2){ background-color: white; height: 14px; width: 5;}
 
